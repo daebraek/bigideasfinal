@@ -2,7 +2,7 @@
 
 Team name
 
-Team members and their email addresses
+Team members and their email addresses - Kosisochukwu Edoziem, Eric Lutz, Mauricio
 
 Description and links to the datasets used
 
