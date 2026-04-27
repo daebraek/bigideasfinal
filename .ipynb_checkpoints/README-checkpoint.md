@@ -5,6 +5,7 @@ Team name - Life
 Team members and their email addresses - Kosisochukwu Edoziem (kse27@pitt.edu | smart-trash), Eric Lutz (evr66@pitt.edu | Lowest_traffic), Mauricio Alemany (mea316@pitt.edu | crime-final)
 
 **Description and links to the datasets used**
+
 Traffic dataset- Displays the different neighborhoods in Pittsburgh and gives metrics on average daily car count, average daily car count,  percent of people going over the speed limit.
 https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167 
 Safety Datasets- Gives the population of each neighborhood in Pittsburgh along with a blotter of all criminal activity, categorized by neighborhood and month/year.
