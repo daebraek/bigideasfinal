@@ -2,7 +2,7 @@
 
 Team name - Life
 
-Team members and their email addresses - Kosisochukwu Edoziem (kse27@pitt.edu), Eric Lutz (evr66@pitt.edu), Mauricio Alemany (mea316@pitt.edu)
+Team members and their email addresses - Kosisochukwu Edoziem (kse27@pitt.edu | smart-trash), Eric Lutz (evr66@pitt.edu | Lowest_traffic), Mauricio Alemany (mea316@pitt.edu | crime-final)
 
 **Description and links to the datasets used**
 Traffic dataset- Displays the different neighborhoods in Pittsburgh and gives metrics on average daily car count, average daily car count,  percent of people going over the speed limit.
